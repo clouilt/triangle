@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="200" height="200" version="1.1"
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1618 1000">
+
+<!-- 0,0 1,1 (sqrt(5)+1)/2,0-->
+<polygon points="0,1000 1618,1000 1000,0"
+style="fill:none;
+stroke:#000000;stroke-width:2px"/>
+
+<!-- (sqrt(5) + 3) / (sqrt(5) + 1 + 2 * tan(pi/8) + tan(pi/8) * sqrt(10 + 2*sqrt(5))),tan(pi/8)*x r=y-->
+<circle cx="928" cy="616" r="384" style="fill:none" stroke="black" />
+</svg>
